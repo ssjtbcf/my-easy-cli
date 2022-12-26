@@ -1,0 +1,23 @@
+{
+  "name": "my-easy-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "easy": "/bin/easy.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssjtbcf/my-easy-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssjtbcf/my-easy-cli/issues"
+  },
+  "homepage": "https://github.com/ssjtbcf/my-easy-cli#readme"
+}
